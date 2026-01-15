@@ -7,4 +7,4 @@
 This repository is a documentation with step-by-step learning of all the basics of IT.
 
 ### Navigation:
-#### 1 - [The basics](001%20-%20The%20Basics/)
+#### 1 - [The Basics](001%20-%20The%20Basics/)

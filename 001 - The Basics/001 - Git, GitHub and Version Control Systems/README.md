@@ -1,4 +1,5 @@
 # Git and GitHub, Version Control Systems
+**[Return: 1 - The Basics](../)**
 **[Next: 2 - Computer Hardware](../002%20-%20Computer%20Hardware/)**
 ***
 
@@ -56,4 +57,5 @@ Another thing - *GitHub Desktop*. While sounds just like GitHub, it is not your 
 GHD is an official GUI shell for Git, but there are also plenty of other unofficial shells that you can find online, few of them being quite popular open-source like *GitKraken[*](https://en.wikipedia.org/wiki/GitKraken)[*](https://www.gitkraken.com/)*, *Sourcetree[*](https://www.sourcetreeapp.com/)* and *SmartGit[*](https://www.smartgit.dev/)*. Be aware, that some of them don't allow, or allow paid commercial use.
 
 ***
-**[Next: 2 - Computer Hardware](../002%20-%20Computer%20Hardware/)**
+**[Return: 1 - The Basics](../)**
+**[Next: 2 - Computer Hardware](../002%20-%20Computer%20Hardware/)** 

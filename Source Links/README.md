@@ -1,0 +1,1 @@
+- Digital Electronics - a one hour video with basic introduction on how computer electronics work https://www.youtube.com/watch?v=pDELW2pIvWw&t

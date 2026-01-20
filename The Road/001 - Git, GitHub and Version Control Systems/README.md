@@ -1,6 +1,6 @@
-# Git and GitHub, Version Control Systems
-**[Return: 1 - The Basics](../)**
-**[Next: 2 - Computer Hardware](../002%20-%20Computer%20Hardware/)**
+# 1 - Git and GitHub, Version Control Systems
+**[Return: Topics](../)**
+**[Next: 2 - Electricity](../002%20-%20Electricity)**
 ***
 
 This project is currently located on a GitHub[*](https://en.wikipedia.org/wiki/GitHub)[*](https://github.com/) hosted repository and I use GitHub Desktop to work with this repository. For some this may be a familiar name, but for some not. For any developer it is crucial to know what are these, as they make teamwork and personal project extremely easy to share between team members and even personal devices. So here I will explain what are GitHub and Git and what is difference between them.
@@ -57,5 +57,5 @@ Another thing - *GitHub Desktop*. While sounds just like GitHub, it is not your 
 GHD is an official GUI shell for Git, but there are also plenty of other unofficial shells that you can find online, few of them being quite popular open-source like *GitKraken[*](https://en.wikipedia.org/wiki/GitKraken)[*](https://www.gitkraken.com/)*, *Sourcetree[*](https://www.sourcetreeapp.com/)* and *SmartGit[*](https://www.smartgit.dev/)*. Be aware, that some of them don't allow, or allow paid commercial use.
 
 ***
-**[Return: 1 - The Basics](../)**
-**[Next: 2 - Computer Hardware](../002%20-%20Computer%20Hardware/)** 
+**[Return: Topics](../)**
+**[Next: 2 - Electricity](../002%20-%20Electricity)**
